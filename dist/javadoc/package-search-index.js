@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"lanceur"},{"l":"modele.dao"},{"l":"modele.metier"},{"l":"test.dao"},{"l":"test.metier"},{"l":"test.vue"},{"l":"vue"}];updateSearchResults();
